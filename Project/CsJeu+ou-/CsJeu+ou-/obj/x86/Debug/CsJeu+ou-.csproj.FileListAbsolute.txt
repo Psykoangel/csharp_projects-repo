@@ -1,0 +1,5 @@
+C:\Users\eXia_Michael\Documents\Visual Studio 2010\Projects\CsJeu+ou-\CsJeu+ou-\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eXia_Michael\Documents\Visual Studio 2010\Projects\CsJeu+ou-\CsJeu+ou-\bin\Debug\CsJeu+ou-.exe
+C:\Users\eXia_Michael\Documents\Visual Studio 2010\Projects\CsJeu+ou-\CsJeu+ou-\bin\Debug\CsJeu+ou-.pdb
+C:\Users\eXia_Michael\Documents\Visual Studio 2010\Projects\CsJeu+ou-\CsJeu+ou-\obj\x86\Debug\CsJeu+ou-.exe
+C:\Users\eXia_Michael\Documents\Visual Studio 2010\Projects\CsJeu+ou-\CsJeu+ou-\obj\x86\Debug\CsJeu+ou-.pdb

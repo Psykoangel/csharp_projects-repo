@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MvcApplication1.Models.classes>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<ul id="Affiliation">
+@foreach (var item in Model)
+{
+    <li>
+        <div>
+            <img src="@Href("~/Content/Images/Classes/" + item.titre + "_uneimage.png")" alt="Voila..."/>
+        </div>
+    </li>
+}
+</ul>

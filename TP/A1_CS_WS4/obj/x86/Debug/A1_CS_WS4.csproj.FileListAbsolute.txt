@@ -1,0 +1,15 @@
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4._3_Couche_Client.frm_ajouterPersonne.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4._3_Couche_Client.frm_frm_listePsAs.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4._3_Couche_Client.frm_listeVilles.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4.Form1.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4._3_Couche_Client.frm_rechercherPersonne.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4.Properties.Resources.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\bin\Debug\A1_CS_WS4.exe.config
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\bin\Debug\BDD_WS4n.mdb
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\bin\Debug\A1_CS_WS4.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\bin\Debug\A1_CS_WS4.pdb
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\A1_CS_WS4\A1_CS_WS4\obj\x86\Debug\A1_CS_WS4.pdb

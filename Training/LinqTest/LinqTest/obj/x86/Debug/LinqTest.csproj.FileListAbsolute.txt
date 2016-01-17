@@ -1,0 +1,5 @@
+c:\users\exia_michael\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\exia_michael\documents\visual studio 2010\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.pdb
+c:\users\exia_michael\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.pdb

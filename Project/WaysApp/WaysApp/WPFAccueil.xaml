@@ -1,0 +1,18 @@
+﻿<Window x:Class="WaysApp.WPFAccueil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:us="clr-namespace:WaysApp.UserControls"
+        Title="MainWindow" Width="1024" Height="720" WindowStartupLocation="CenterOwner" Topmost="True" WindowStyle="None">
+    <Window.Background>
+        <ImageBrush ImageSource="Ressources/background01.jpg"/>
+    </Window.Background>
+    <Grid >
+        <Grid>
+            <Expander Header="Administration" Margin="0,22,585,580" ExpandDirection="Right" Foreground="White" HorizontalAlignment="Right" Width="410" Height="110">
+                <us:PanneauLogin/>
+            </Expander>
+            <us:PlayGameButton Width="150" Height="150"  Background="#FF0E1F31" BorderThickness="0" HorizontalContentAlignment="Center" Margin="300,360,566,202"/>
+            <us:MakeQuestionnaryButton Width="150" Height="150"  Background="#FF0E1F31" BorderThickness="0" HorizontalContentAlignment="Center" Margin="566,360,300,202"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,53 @@
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\obj\x86\Debug\Code.Form1.resources
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\obj\x86\Debug\Code.Properties.Resources.resources
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\bin\Debug\Code.exe
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\bin\Debug\Code.pdb
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\obj\x86\Debug\Code.exe
+C:\Users\John\Desktop\Projet_CSharp\Code\Code\obj\x86\Debug\Code.pdb
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.exe
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.pdb
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\bin\Debug\Code.exe
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\bin\Debug\Code.pdb
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Form1.resources
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Properties.Resources.resources
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.exe
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.pdb
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\bin\Debug\Code.exe
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\bin\Debug\Code.pdb
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Form1.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Properties.Resources.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.exe
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.pdb
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\bin\Debug\Code.exe
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\bin\Debug\Code.pdb
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Form1.resources
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Properties.Resources.resources
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Crédits.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.APropos.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Crédits.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Couche_IHM.gst_Equip.resources
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.APropos.resources
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Crédits.resources
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Couche_IHM.gst_Equip.resources
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.FAQ.resources
+C:\Users\John\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.clientListeClient.resources
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.clientListeClient.resources
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.APropos.resources
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.FAQ.resources
+D:\Storage\Programmes\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.Couche_IHM.gst_Equip.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Code.FAQ.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Gestion_Client_v1.Liste_complete.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Gestion_Client_v1.Modification.resources
+C:\Users\eXia_Michael\Dropbox\Projet Csharp\Application\Code\Code\obj\x86\Debug\Gestion_Client_v1.Reservation_client.resources

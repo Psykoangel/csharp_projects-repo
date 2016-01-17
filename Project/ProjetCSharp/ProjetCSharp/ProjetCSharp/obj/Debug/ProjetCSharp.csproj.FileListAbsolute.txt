@@ -1,0 +1,13 @@
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\bin\Debug\ProjetCSharp.exe.config
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\bin\Debug\ProjetCSharp.exe
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\bin\Debug\ProjetCSharp.pdb
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.Properties.Resources.resources
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.csproj.GenerateResource.Cache
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.exe
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.pdb
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.Form1.resources
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.InterfaceLayer.List.ListManager.resources
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.InterfaceLayer.User.UserManager.resources
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\obj\Debug\ProjetCSharp.InterfaceLayer.List.AddList.resources
+C:\Users\Psyko\Desktop\Sharing\ProjetCSharp\ProjetCSharp\ProjetCSharp\bin\Debug\ProjetCSharp.accdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="starwarsTORModelStoreContainer" CdmEntityContainer="starwarsTOREntities2">
+    <EntitySetMapping Name="classes">
+      <EntityTypeMapping TypeName="starwarsTORModel.classes">
+        <MappingFragment StoreEntitySet="classes">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="titre" ColumnName="titre" />
+          <ScalarProperty Name="Identification" ColumnName="Identification" />
+          <ScalarProperty Name="Equipement" ColumnName="Equipement" />
+          <ScalarProperty Name="TactiqueCombat" ColumnName="TactiqueCombat" />
+          <ScalarProperty Name="Partenaire" ColumnName="Partenaire" />
+          <ScalarProperty Name="VaisseauxId" ColumnName="VaisseauxId" />
+          <ScalarProperty Name="AffiliationId" ColumnName="AffiliationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

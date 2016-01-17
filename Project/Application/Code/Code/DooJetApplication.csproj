@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD71D971-F972-404C-9EE6-9EFEFD638249}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Code</RootNamespace>
+    <AssemblyName>Code</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Code.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Code.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Couche Client\Client\Liste_complete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Client\Liste_complete.Designer.cs">
+      <DependentUpon>Liste_complete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Client\Modification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Client\Modification.Designer.cs">
+      <DependentUpon>Modification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Client\Reservation_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Client\Reservation_client.Designer.cs">
+      <DependentUpon>Reservation_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\AbsencePersonnel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\AbsencePersonnel.designer.cs">
+      <DependentUpon>AbsencePersonnel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\FicheDetailPersonnel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\FicheDetailPersonnel.designer.cs">
+      <DependentUpon>FicheDetailPersonnel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\ListeCompletePersonnel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\ListeCompletePersonnel.designer.cs">
+      <DependentUpon>ListeCompletePersonnel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\ModificationPersonnel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Personnel\ModificationPersonnel.designer.cs">
+      <DependentUpon>ModificationPersonnel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\DisponibiliteReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\DisponibiliteReservation.designer.cs">
+      <DependentUpon>DisponibiliteReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\EquipementReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\EquipementReservation.designer.cs">
+      <DependentUpon>EquipementReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\FicheDetailReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\FicheDetailReservation.designer.cs">
+      <DependentUpon>FicheDetailReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\ListeCompleteReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\ListeCompleteReservation.designer.cs">
+      <DependentUpon>ListeCompleteReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\ModificationReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Reservation\ModificationReservation.designer.cs">
+      <DependentUpon>ModificationReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Data\CL_CAD.cs" />
+    <Compile Include="Couche Client\Home\int_APropos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Home\int_APropos.Designer.cs">
+      <DependentUpon>int_APropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Home\in_Credits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Home\in_Credits.Designer.cs">
+      <DependentUpon>in_Credits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Home\int_FAQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Home\int_FAQ.Designer.cs">
+      <DependentUpon>int_FAQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Equipement\gst_Equip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Equipement\gst_Equip.Designer.cs">
+      <DependentUpon>gst_Equip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Client\Home\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Couche Client\Home\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Couche Processus\Client\CL_gPcs_Client.cs" />
+    <Compile Include="Couche Processus\Equipement\CL_Pcs_gst_Equip.cs" />
+    <Compile Include="Couche Processus\Personnel\CL_gPcs_Personnel.cs" />
+    <Compile Include="Mapping\Client\CL_mpg_Client.cs" />
+    <Compile Include="Mapping\Equipement\CL_mpg_Equip.cs" />
+    <Compile Include="Mapping\Personnel\CL_mpg_Personnel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Couche Client\Home\int_APropos.resx">
+      <DependentUpon>int_APropos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Home\in_Credits.resx">
+      <DependentUpon>in_Credits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Home\int_FAQ.resx">
+      <DependentUpon>int_FAQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Equipement\gst_Equip.resx">
+      <DependentUpon>gst_Equip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Client\Liste_complete.resx">
+      <DependentUpon>Liste_complete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Home\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Client\Modification.resx">
+      <DependentUpon>Modification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Client\Reservation_client.resx">
+      <DependentUpon>Reservation_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Personnel\AbsencePersonnel.resx">
+      <DependentUpon>AbsencePersonnel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Personnel\FicheDetailPersonnel.resx">
+      <DependentUpon>FicheDetailPersonnel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Personnel\ListeCompletePersonnel.resx">
+      <DependentUpon>ListeCompletePersonnel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Personnel\ModificationPersonnel.resx">
+      <DependentUpon>ModificationPersonnel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Reservation\DisponibiliteReservation.resx">
+      <DependentUpon>DisponibiliteReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Reservation\EquipementReservation.resx">
+      <DependentUpon>EquipementReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Reservation\FicheDetailReservation.resx">
+      <DependentUpon>FicheDetailReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Reservation\ListeCompleteReservation.resx">
+      <DependentUpon>ListeCompleteReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Couche Client\Reservation\ModificationReservation.resx">
+      <DependentUpon>ModificationReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

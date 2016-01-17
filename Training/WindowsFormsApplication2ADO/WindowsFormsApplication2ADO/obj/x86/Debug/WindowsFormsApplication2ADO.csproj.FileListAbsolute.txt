@@ -1,0 +1,9 @@
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\bin\Debug\WindowsFormsApplication2ADO.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\bin\Debug\WindowsFormsApplication2ADO.pdb
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\obj\x86\Debug\WindowsFormsApplication2ADO.Form1.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\obj\x86\Debug\WindowsFormsApplication2ADO.Properties.Resources.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\obj\x86\Debug\WindowsFormsApplication2ADO.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\WindowsFormsApplication2ADO\WindowsFormsApplication2ADO\obj\x86\Debug\WindowsFormsApplication2ADO.pdb

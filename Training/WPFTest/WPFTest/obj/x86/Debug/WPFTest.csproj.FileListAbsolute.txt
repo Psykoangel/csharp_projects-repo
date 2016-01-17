@@ -1,0 +1,13 @@
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\App.g.cs
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\WPFTest_MarkupCompile.cache
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\bin\Debug\WPFTest.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\bin\Debug\WPFTest.pdb
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\MainWindow.baml
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\MainWindow.g.cs
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\WPFTest.g.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\WPFTest.Properties.Resources.resources
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\WPFTest.exe
+c:\users\exia_michael\documents\visual studio 2010\Projects\WPFTest\WPFTest\obj\x86\Debug\WPFTest.pdb

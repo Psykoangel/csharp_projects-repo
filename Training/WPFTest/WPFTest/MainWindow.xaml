@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPFTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Test du Xaml"
+        Height="355" Width="300"
+        ResizeMode="CanResize"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+>
+        
+
+<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Text="Que voulez-vous faire ?"/>
+        <StackPanel Grid.Row="1" Orientation="Vertical">
+            <Button Height="40" Margin="15,5" Content="Créer un nouveau message"/>
+            <Button Height="40" Margin="15,5" Content="Consulter vos messages"/>
+            <Button Height="40" Margin="15,5" Content="Régler les options"/>
+            <Button Height="40" Margin="15,5" Content="Vider la corbeille"/>
+            <Button Height="40" Margin="15,5" Content="Quitter" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

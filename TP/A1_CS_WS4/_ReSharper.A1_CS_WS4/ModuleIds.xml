@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="B896D6F8-82B4-4ED6-88D1-70B6FB55E680" ModuleId="A1_CS_WS4" />
+  <Module PersistentId="D23C9F2A-DB0A-4338-BACB-727C1A648C47" ModuleId="WindowsFormsApplication1" />
+  <Module PersistentId="F69956A9-FBE4-4891-828A-CFC24DFBFC4C" ModuleId="WindowsFormsApplication2ADO" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+</Modules>

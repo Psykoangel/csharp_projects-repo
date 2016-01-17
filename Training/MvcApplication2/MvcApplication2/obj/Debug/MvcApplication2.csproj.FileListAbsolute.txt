@@ -1,0 +1,7 @@
+c:\users\exia_michael\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\bin\MvcApplication2.dll
+c:\users\exia_michael\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\bin\MvcApplication2.pdb
+c:\users\exia_michael\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\bin\EntityFramework.dll
+c:\users\exia_michael\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\bin\EntityFramework.xml
+c:\users\exia_michael\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\exia_michael\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.dll
+c:\users\exia_michael\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2\obj\Debug\MvcApplication2.pdb
